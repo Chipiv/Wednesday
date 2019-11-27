@@ -12,7 +12,7 @@ public class HelloWorld {
 	public static void main (String args[]){
  //String is called Hello World as it is a tearm.
 		System.out.println("Hello World!"); 
- 		
+ 	    	System.out.println("Hi");	
  }
     
 }
